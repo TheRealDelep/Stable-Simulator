@@ -24,7 +24,7 @@ https://docs.google.com/document/d/1GPu6YOa8t-vHW6KYjjUNVYPtz2f7Q0XhkBDUI8UatO4/
 ## Concurrency analysis
 ### Horse Tales: La vallée d'émeraude
 https://store.steampowered.com/app/1474740/Horse_Tales__La_Valle_dEmeraude/
-- number of sales: entre 35 et 40k
+- number of sales: 35 to 40k
 - price: 30$
 
 ### My riding Stables: Life with horses
